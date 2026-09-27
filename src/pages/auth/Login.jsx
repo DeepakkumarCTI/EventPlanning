@@ -135,9 +135,9 @@ export default function Login() {
           <div className="mt-4 rounded-xl border border-slate-100 bg-slate-50 px-3 py-3">
             <p className="text-center text-[11px] leading-5 text-slate-500 sm:text-xs">
               <span className="font-bold text-slate-700">
-                Demo account:
+                Customer Login or Register
               </span>{" "}
-              customer@eventara.com / customer123
+              
             </p>
           </div>
         </div>
